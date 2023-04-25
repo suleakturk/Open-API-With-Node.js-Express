@@ -14,7 +14,7 @@ Also it has dockerfile and docker-compose file.
 ### `docker run -dp 9000:9000 my-api` for run the project
 
 
-- If you get this image from DockerHub, youcan run this:
+- If you get this image from DockerHub, you can run this:
 
 ### `docker push suleakturk/library-rest-api-with-express.js:tagname` 
 
