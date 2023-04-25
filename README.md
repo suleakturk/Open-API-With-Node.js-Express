@@ -16,7 +16,7 @@ Also it has dockerfile and docker-compose file.
 
 - If you get this image from DockerHub, you can run this:
 
-### `docker push suleakturk/library-rest-api-with-express.js:tagname` 
+### `docker pull suleakturk/library-rest-api-with-express.js` 
 
 
 - If you don't want to use Dockerfile, you can run:
